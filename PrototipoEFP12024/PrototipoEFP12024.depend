@@ -100,3 +100,86 @@
 	"menugeneral.h"
 	"ingresousuario.h"
 
+1717001923 source:c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"ingresousuario.h"
+
+1717001923 c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\include\ingresousuario.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1717001923 source:c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	"Bitacora.h"
+
+1717001923 c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1717001923 source:c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\src\cursos.cpp
+	"cursos.h"
+
+1717001923 c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\include\cursos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menugeneral.h"
+	"ingresousuario.h"
+
+1717001923 c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\include\menugeneral.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1717001923 source:c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\src\estudiante.cpp
+	"estudiante.h"
+
+1717001923 c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\include\estudiante.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menugeneral.h"
+	"ingresousuario.h"
+
+1717001923 source:c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\src\ingresousuario.cpp
+	"ingresousuario.h"
+	"menugeneral.h"
+	"bitacora.h"
+
+1717002721 source:c:\users\50259\onedrive\prototipoep12024 ms\prototipoefp12024\prototipoefp12024\src\menugeneral.cpp
+	"menugeneral.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"ingresousuario.h"
+	"estudiante.h"
+	"bitacora.h"
+	"cursos.h"
+

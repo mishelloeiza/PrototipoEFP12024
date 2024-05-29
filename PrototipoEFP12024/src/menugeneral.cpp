@@ -27,11 +27,11 @@ string Menus::menuInicial(string nombreUsuario)
     {
     system("cls");
 	cout << "\t\t\t-------------------------------------------------\n";
-    cout << "\t\t\t|                  !Hola " << userName << "!                  |" <<endl;
+    cout << "\t\t\t|                  !Hola Mishel" << userName << "!                  |" <<endl;
     cout << "\t\t\t-------------------------------------------------\n";
     cout << "\n\t\t\t---------------------------------------------\n";
-    cout << "\t\t\t|    Diana Mishel Loeiza Ramirez             |"<<endl;
-    cout << "\t\t\t|                   9959 - 23 - 3457          |";
+    cout << "\t\t\t|      Diana Mishel Loeiza Ramirez 2024              |"<<endl;
+    cout << "\t\t\t|                9959 - 23 - 3457          |";
     cout << "\n\t\t\t-----------------------------------------------"<<endl;
 
     cout << "\n\t\t\t1. Menu Catalogos"<<endl;
@@ -169,7 +169,7 @@ string Menus::menuProcesos(string nombreUsuario)
     do
     {
     cout << "\t\t\t-------------------------------------------------\n";
-    cout << "\t\t\t|                  !Hola " << userName << "!                  |" <<endl;
+    cout << "\t\t\t|                  !Hola Mishel " << userName << "!                  |" <<endl;
     cout << "\t\t\t-------------------------------------------------\n";
     cout << "\n\t\t\t-----------------------------------\n";
     cout << "\t\t\t| Bienvenido al Menu de Procesos |";

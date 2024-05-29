@@ -2,6 +2,4 @@ geo            geo            geo            geo            geo            015
 geo            gudiel         zona15         36             015            geo            
 gudiel         15             36             20             Mishel         Loeiza         
 J33            36171933       20             Mishel         Loeiza         J              
-20             Mishel         Loeiza                        J              33             
-3457           Mishel         Loeiza                        loe            36171933       
-3617           Carlos         Calderon                      Maya           18             
+Mishel         Loeiza         loe            36171933       3617           Carlos         
