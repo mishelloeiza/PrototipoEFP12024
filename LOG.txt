@@ -1,0 +1,108 @@
+
+50259@LAPTOP-DP4U74K3 MINGW64 ~/OneDrive/PrototipoEP12024 MS/PrototipoEFP12024/PrototipoEFP12024 (main)
+$ git log
+commit 9c5db4bed24984d33460dc124555bd78b2e8dec6 (HEAD -> main, origin/implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457, implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 11:11:03 2024 -0600
+
+    funcionalidades Mishelloeiza3457
+
+commit f8a1959f774ddfb57008df43575fa85b3a0978f9 (origin/main, origin/Menu_General_Mishelloeiza_9959233457, origin/HEAD, Menu_General_Mishelloeiza_9959233457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 10:57:35 2024 -0600
+
+    Menu general 9959233457 Mishelç
+
+commit afb03bff85358701f26d1012859e0b09dd91ffb2
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 09:29:56 2024 -0600
+
+    Update README.md
+
+commit ae5c673240c044ea5d74012d6485fa612b7046e7
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+ ESCOD
+commit 9c5db4bed24984d33460dc124555bd78b2e8dec6 (HEAD -> main, origin/implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457, implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 11:11:03 2024 -0600
+
+    funcionalidades Mishelloeiza3457
+
+commit f8a1959f774ddfb57008df43575fa85b3a0978f9 (origin/main, origin/Menu_General_Mishelloeiza_9959233457, origin/HEAD, Menu_General_Mishelloeiza_9959233457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 10:57:35 2024 -0600
+
+    Menu general 9959233457 Mishelç
+
+commit afb03bff85358701f26d1012859e0b09dd91ffb2
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 09:29:56 2024 -0600
+
+    Update README.md
+
+commit ae5c673240c044ea5d74012d6485fa612b7046e7
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+ ESCOD
+commit 9c5db4bed24984d33460dc124555bd78b2e8dec6 (HEAD -> main, origin/implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457, implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 11:11:03 2024 -0600
+
+    funcionalidades Mishelloeiza3457
+
+commit f8a1959f774ddfb57008df43575fa85b3a0978f9 (origin/main, origin/proceso_General_Mishelloeiza_9959233457, origin/HEAD, Menu_General_Mishelloeiza_9959233457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 10:57:35 2024 -0600
+
+    Menu general 9959233457 Mishelç
+
+commit afb03bff85358701f26d1012859e0b09dd91ffb2
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 09:29:56 2024 -0600
+
+    Update README.md
+
+commit ae5c673240c044ea5d74012d6485fa612b7046e7
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+ ESCOD
+commit 9c5db4bed24984d33460dc124555bd78b2e8dec6 (HEAD -> main, origin/implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457, implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 11:11:03 2024 -0600
+
+    funcionalidades Mishelloeiza3457
+
+commit f8a1959f774ddfb57008df43575fa85b3a0978f9 (origin/main, origin/BITACORA_General_Mishelloeiza_9959233457, origin/HEAD, Menu_General_Mishelloeiza_9959233457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 10:57:35 2024 -0600
+
+    Mbitacora 9959233457 Mishelç
+
+commit afb03bff85358701f26d1012859e0b09dd91ffb2
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 09:29:56 2024 -0600
+
+    Update README.md
+
+commit ae5c673240c044ea5d74012d6485fa612b7046e7
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+ ESCOD
+commit 9c5db4bed24984d33460dc124555bd78b2e8dec6 (HEAD -> main, origin/implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457, implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 11:10:03 2024 -0600
+
+    funcionalidades Mishelloeiza3457
+
+commit f8a1959f774ddfb57008df43575fa85b3a0978f9 (origin/main, origin/Menu_General_Mishelloeiza_9959233457, origin/HEAD, Menu_General_Mishelloeiza_9959233457)
+Author: mishelloeiza <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 10:57:35 2024 -0600
+
+    Menu general 9959233457 Mishelç
+
+commit afb03bff85358701f26d1012859e0b09dd91ffb2
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+Date:   Wed May 29 09:29:56 2024 -0600
+
+    Update README.md
+
+commit ae5c673240c044ea5d74012d6485fa612b7046e7
+Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
+:
