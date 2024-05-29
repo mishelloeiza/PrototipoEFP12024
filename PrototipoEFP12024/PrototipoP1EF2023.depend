@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1686152156 source:c:\users\dekar\onedrive\escritorio\ prototipop1ef2023\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"ingresousuario.h"
+
+1686151765 c:\users\dekar\onedrive\escritorio\ prototipop1ef2023\include\ingresousuario.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686154090 source:c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"ingresousuario.h"
+
+1686151765 c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\include\ingresousuario.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686157453 source:c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\src\ingresousuario.cpp
+	"ingresousuario.h"
+	"menugeneral.h"
+	"bitacora.h"
+
+1686153589 c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\include\menugeneral.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686158556 source:c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\src\menugeneral.cpp
+	"menugeneral.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"ingresousuario.h"
+	"estudiante.h"
+	"bitacora.h"
+	"cursos.h"
+
+1686158698 source:c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\src\estudiante.cpp
+	"estudiante.h"
+
+1686159296 c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\include\estudiante.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menugeneral.h"
+	"ingresousuario.h"
+
+1686157001 source:c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\src\bitacora.cpp
+	"Bitacora.h"
+
+1686157001 c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1686159340 source:c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\src\cursos.cpp
+	"cursos.h"
+
+1686159328 c:\users\dekar\onedrive\escritorio\universidad\progra\tareasp1-9959-22-3918\prototipop1ef2023\include\cursos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menugeneral.h"
+	"ingresousuario.h"
+
