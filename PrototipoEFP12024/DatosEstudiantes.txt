@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 geo            geo            geo            geo            geo            015            
 geo            gudiel         zona15         36             015            geo            
 gudiel         15             36             20             Mishel         Loeiza         
@@ -6,3 +7,6 @@ J33            36171933       20             Mishel         Loeiza         J
 3457           Mishel         Loeiza                        loe            36171933       
 3617           Carlos         Calderon                      Maya           18             
 3550           Mishel         Loeiza                        Angeles        3617           
+=======
+
+>>>>>>> 1d89f36d11f9b2377515497e3c50f3113816d1ad

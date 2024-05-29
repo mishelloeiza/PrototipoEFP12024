@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 mish           7010           NLOG           Wed May 29 11:07:20 2024
 
@@ -12,4 +13,6 @@ Mishel         7000           LOGIN          Wed May 29 11:18:14 2024
 Mishel         7000           LOGIN          Wed May 29 11:19:32 2024
 
 Mishel         7000           LOGIN          Wed May 29 11:54:57 2024
+=======
+>>>>>>> 1d89f36d11f9b2377515497e3c50f3113816d1ad
 
