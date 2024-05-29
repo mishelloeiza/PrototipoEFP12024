@@ -1,2 +1,2 @@
 # PrototipoEFP12024
-Caso Practicó examèn final de progrmaciòn "modernizaciòn de tècnologia en la corporaciòn" 
+Caso Practicó examèn final de programaciòn "modernizaciòn de tècnologia en la corporaciòn" 
