@@ -18,19 +18,19 @@ commit 1d89f36d11f9b2377515497e3c50f3113816d1ad
 Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
 Date:   Wed May 29 11:12:04 2024 -0600
 
-    Rename PrototipoP1EF2023.depend to PrototipoEFP12024.depend
+    Rename PrototipoP1EF2024.depend to PrototipoEFP12024.depend
 
 commit 473fce2a435396b2fa3c9bf20b3abcab3fbbc787
 Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
 Date:   Wed May 29 11:11:43 2024 -0600
 
-    Rename PrototipoP1EF2023.cbp to PrototipoEFP12024.cbp
+    Rename PrototipoP1EF2024.cbp to PrototipoEFP12024.cbp
 
 commit b4f3690bf4c0c225b7bff4709efc6bcacebe35de
 Author: Diana Mishel Loeiza Ramìrez <dloeizar@miumg.edu.gt>
 Date:   Wed May 29 11:11:48 2024 -0600
 
-    Rename PrototipoP1EF2023.layout to PrototipoEFP12024.layout
+    Rename PrototipoP1EF2024.layout to PrototipoEFP12024.layout
 
 commit 9c5db4bed24984d33460dc124555bd78b2e8dec6 (origin/implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457, implementacion_bitacora_ENPANTALLA_MISHELLOEIZA3457)
 Author: mishelloeiza <dloeizar@miumg.edu.gt>
