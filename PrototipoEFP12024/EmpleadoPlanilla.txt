@@ -1,5 +1,5 @@
-geo            geo            geo            geo            geo            015            
-geo            gudiel         zona15         36             015            geo            
-gudiel         15             36             20             Mishel         Loeiza         
+carlos            geo            geo            geo            geo            015            
+geo            gallardo         zona15         36             015            geo            
+calderon        15             36             20             Mishel         Loeiza         
 J33            36171933       20             Mishel         Loeiza         J              
 Mishel         Loeiza         loe            36171933       3617           Carlos         
